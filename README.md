@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on mobile robots
+- 🌱 I’m currently learning AI
+- 😄 Pronouns: He/Him
+- :page_with_curl: [Resume](https://drive.google.com/file/d/1q0JOQFhiKU8Qmo4IzenLnlE41GDokX9v/view?usp=sharing)
+
 <!--
 **TuanMinhNguyen15/TuanMinhNguyen15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
